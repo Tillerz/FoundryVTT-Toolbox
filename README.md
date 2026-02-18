@@ -1,4 +1,4 @@
-# FoundryVTT-Toolbox
+# Toolbox-for-FoundryVTT
 Scripts and Tools for FoundryVTT
 
 ## Tools Index
